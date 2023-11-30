@@ -1,4 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-18:02:51	57/57	---MC-	308	error ('Permanent%20Redirect')	text/html	date:Tue,%2028%20Nov%202023%2012:32:51%20GMT	https://weddingcountdown.app/watch/12_25_2023_cccf9108-eb5c-47b1-b0fb-749beccebd2b/*	weddingcountdown.app/watch/12_25_2023_cccf9108-eb5c-47b1-b0fb-749beccebd2b/_.0.delayed	(from )
-18:02:54	1454/1454	---MCZ	404	error ('Not%20Found')	text/html	etag:%22f29-VbPui1swxNu3oOC9oq43/OmKB9Y%22	https://weddingcountdown.app/robots.txt		(from )
-18:02:54	3881/3881	---MCZ	404	error ('Not%20Found')	text/html	etag:%22f29-VbPui1swxNu3oOC9oq43/OmKB9Y%22	https://weddingcountdown.app/watch/12_25_2023_cccf9108-eb5c-47b1-b0fb-749beccebd2b/*/	weddingcountdown.app/watch/12_25_2023_cccf9108-eb5c-47b1-b0fb-749beccebd2b/_/index.html	(from )
